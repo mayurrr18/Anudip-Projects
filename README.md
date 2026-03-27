@@ -128,7 +128,7 @@ Developed under **Anudip Foundation** as part of skill development training.
 
 ## 👨‍💻 Author
 
-**Mayur Choudhari**
+**Mayuresh Choudhari**
 
 ---
 
